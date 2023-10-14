@@ -32,3 +32,5 @@
   <img scr="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"width="40" height="40">
   <img scr="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"width="40" height="40">
 </div>
+
+### :trophy: Достижения :
