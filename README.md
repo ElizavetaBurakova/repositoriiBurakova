@@ -26,9 +26,9 @@
 ### :hammer_and_wrench: Языки и инструменты :
 
 <div>
-  <img scr="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
-  <img scr="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg">
-  <img scr="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
-  <img scr="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
-  <img scr="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+  <img scr="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40">
+  <img scr="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" width="40" height="40">
+  <img scr="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"width="40" height="40">
+  <img scr="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"width="40" height="40">
+  <img scr="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"width="40" height="40">
 </div>
