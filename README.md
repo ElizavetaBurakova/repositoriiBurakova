@@ -8,4 +8,7 @@
   </a>
 </div>
 
+<div id="view prof" align="center"
+  <img src="https://komarev.kom/ghpvc/?ElizavetaBurakova=rompersStomper&style=flat-square&color=blue" alt=""/>
+</div>
 
