@@ -43,3 +43,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElizavetaBurakova" alt=""/>
 </div>
 
+### 📊: Статтистика активности :
+
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElizavetaBurakova&theme=rogue" alt=""/>
+</div>
