@@ -24,6 +24,11 @@
 - 🐙 люблю осьминогов
 
 ### :hammer_and_wrench: Языки и инструменты :
+<div>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width= "40" height= "40"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width= "40" height= "40"/>
+</div>
+
 
 <div>
   <img scr="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40">
